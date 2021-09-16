@@ -5,6 +5,7 @@
 - [Pattern Generator](https://github.com/turingschool/challenges/blob/master/pattern_generator.markdown)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ### Helpful Resources
 - [Regex](https://www.rubyguides.com/2015/06/ruby-regex/)
